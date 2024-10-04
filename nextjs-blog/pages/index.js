@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1>WHEREAS RECOGNITION OF YOUR</h1>
+        <h1>KALINA</h1>
       </main>
 
       <footer>
@@ -19,7 +19,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          kalina
+          @sustersickalina
         </a>
       </footer>
 
@@ -36,7 +36,6 @@ export default function Home() {
         footer {
           width: 100%;
           height: 10px;
-          border-top: 1px solid #eaeaea;
           display: flex;
           justify-content: center;
           align-items: center;
@@ -66,7 +65,7 @@ export default function Home() {
           margin: 0;
           font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
             Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
-            sans-serif;
+            sans-serif, Bebas Neue;
           height: 100%;
         }
         * {
